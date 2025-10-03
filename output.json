@@ -1,0 +1,239 @@
+[
+    {
+        "adventure": [
+            [
+                "The Pagemaster",
+                32.1713013000293
+            ],
+            [
+                "Scavenger Hunt",
+                22.979500928592355
+            ],
+            [
+                "Blackie & Kanuto",
+                13.787700557155414
+            ],
+            [
+                "Wild Horse Hank",
+                13.787700557155414
+            ],
+            [
+                "Meu Tio Matou Um Cara",
+                13.787700557155414
+            ]
+        ]
+    },
+    {
+        "ocean": [
+            [
+                "Ocean's Eleven",
+                74.86074646371736
+            ],
+            [
+                "Ocean's Thirteen",
+                54.06609466824032
+            ],
+            [
+                "Heroic Duo",
+                33.271442872763274
+            ],
+            [
+                "Godzilla vs. Mothra",
+                24.953582154572455
+            ],
+            [
+                "Oceans",
+                24.953582154572455
+            ]
+        ]
+    },
+    {
+        "dramatic": [
+            [
+                "Saving Milly",
+                9.845168831947042
+            ],
+            [
+                "My Six Convicts",
+                9.845168831947042
+            ],
+            [
+                "Eden Valley",
+                9.845168831947042
+            ],
+            [
+                "Now & Forever",
+                9.845168831947042
+            ],
+            [
+                "Antonieta",
+                9.845168831947042
+            ]
+        ]
+    },
+    {
+        "murder": [
+            [
+                "White Zombie",
+                47.99153908619866
+            ],
+            [
+                "Minority Report",
+                27.7845752604308
+            ],
+            [
+                "Amanda Knox: Murder on Trial in Italy",
+                22.732834303988835
+            ],
+            [
+                "West 32nd",
+                22.732834303988835
+            ]
+        ]
+    },
+    {
+        "red": [
+            [
+                "Raw! Raw! Rooster!",
+                113.89993941695877
+            ],
+            [
+                "Rose Red",
+                100.0938861542971
+            ],
+            [
+                "Batman: Under the Red Hood",
+                75.93329294463918
+            ],
+            [
+                "The Masque of the Red Death",
+                69.03026631330835
+            ],
+            [
+                "Captain America",
+                65.57875299764292
+            ]
+        ]
+    }
+][
+    {
+        "a life full of adventure": [
+            [
+                "Tex",
+                0.3209740331773915
+            ],
+            [
+                "Jubilo, Jr.",
+                0.2555054870584411
+            ],
+            [
+                "Retour \u00e0 l'aube",
+                0.2515578150591349
+            ],
+            [
+                "The Myth of the American Sleepover",
+                0.25019110860331994
+            ],
+            [
+                "Blackie & Kanuto",
+                0.22221716034736833
+            ]
+        ]
+    },
+    {
+        "classic highteen romantic comedy story": [
+            [
+                "Blind Love",
+                0.3292001222770802
+            ],
+            [
+                "Marriage Story",
+                0.31822286937389593
+            ],
+            [
+                "Loop",
+                0.2727507860157931
+            ],
+            [
+                "Eat me!",
+                0.27202884005633354
+            ],
+            [
+                "Gagana",
+                0.2522776317221973
+            ]
+        ]
+    },
+    {
+        "a journey through space and time": [
+            [
+                "Star Pink",
+                0.3263144128701175
+            ],
+            [
+                "002 Operazione Luna",
+                0.30761059867671736
+            ],
+            [
+                "One Small Step: The Story of the Space Chimps",
+                0.29646549380942877
+            ],
+            [
+                "Perdues dans New York",
+                0.2715336458917975
+            ],
+            [
+                "Kamen Rider Fourze the Movie: Everyone, Space Is Here!",
+                0.2668091391908211
+            ]
+        ]
+    },
+    {
+        "heartwarming family drama with hope": [
+            [
+                "A Simple Life",
+                0.36010495520931574
+            ],
+            [
+                "El an\u00f3nimo",
+                0.1888213850503158
+            ],
+            [
+                "Wooly Boys",
+                0.17526112689262344
+            ],
+            [
+                "Bhakta Prahlada",
+                0.1750995681226894
+            ],
+            [
+                "Dayo: Sa Mundo ng Elementalia",
+                0.15911631278975338
+            ]
+        ]
+    },
+    {
+        "dark mystery with unexpected twists": [
+            [
+                "The Singing Detective",
+                0.1961829152092679
+            ],
+            [
+                "Nil Gavani Sellathey",
+                0.18766363294405877
+            ],
+            [
+                "Deadly Drifter",
+                0.17779871862445534
+            ],
+            [
+                "My Trip Back to the Dark Side",
+                0.1731380112547202
+            ],
+            [
+                "Chiriyakhana",
+                0.17215974075043913
+            ]
+        ]
+    }
+]
