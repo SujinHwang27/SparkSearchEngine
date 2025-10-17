@@ -13,10 +13,10 @@ from pyspark import SparkContext, SparkConf
 from pyspark.sql import SparkSession
 
 
-wget.download('http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz')
-file = tarfile.open('MovieSummaries.tar.gz') 
-file.extractall('./') 
-file.close()
+# wget.download('http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz')
+# file = tarfile.open('MovieSummaries.tar.gz') 
+# file.extractall('./') 
+# file.close()
 
 nltk.download('punkt_tab')
 # nltk.download('stopwords')
