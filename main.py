@@ -13,16 +13,19 @@ from pyspark import SparkContext, SparkConf
 from pyspark.sql import SparkSession
 
 
-wget.download('http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz')
-file = tarfile.open('MovieSummaries.tar.gz') 
-file.extractall('./') 
-file.close()
+# wget.download('http://www.cs.cmu.edu/~ark/personas/data/MovieSummaries.tar.gz')
+# file = tarfile.open('MovieSummaries.tar.gz') 
+# file.extractall('./') 
+# file.close()
 
 nltk.download('punkt_tab')
 # nltk.download('stopwords')
 
 conf = SparkConf().setMaster("local").setAppName("main")
+conf.set("spark.eventLog.enabled", "true")
+conf.set("spark.eventLog.dir", "file:///tmp/spark-events")
 sc = SparkContext(conf = conf)
+
 
 ''' Load text data from plot_summaries.txt file '''
 plots = sc.textFile("MovieSummaries/plot_summaries.txt")    # "movieId\tSummary"
